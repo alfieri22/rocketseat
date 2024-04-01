@@ -1,0 +1,32 @@
+# Objetivo SMART:
+
+**Específico (Specific):** Aprender a desenvolver e hospedar um site ou projeto utilizando PHP com o framework CodeIgniter, interagindo com bancos de dados MySQL por meio de consultas SQL.
+
+**Mensurável (Measurable):** Concluir um curso online sobre MySQL e SQL para aprender os conceitos básicos e avançados de bancos de dados. Desenvolver pelo menos um projeto prático usando PHP com o framework CodeIgniter, que envolva interações com o banco de dados MySQL.
+
+**Atingível (Achievable):** Reserve pelo menos 10 horas por semana para estudar e praticar os conceitos de MySQL, SQL e PHP com CodeIgniter. Utilize recursos online, como tutoriais, documentações oficiais e fóruns de suporte para auxiliar no aprendizado. Participe de comunidades online relacionadas ao desenvolvimento web para receber feedback e orientação adicional.
+
+**Relevante (Relevant):** Dominar o uso de bancos de dados e frameworks de desenvolvimento web é essencial para construir aplicações web robustas e eficientes. O conhecimento adquirido será aplicável em projetos pessoais e profissionais, aumentando as habilidades e a empregabilidade na área de desenvolvimento web.
+
+**Temporal (Time-bound):** Concluir o curso online sobre MySQL e SQL dentro de 2 meses. Desenvolver e concluir o projeto prático com PHP e CodeIgniter dentro de 3 meses após o término do curso. Em seguida, dedicar os próximos 2 meses para aprender sobre configuração de servidor e hospedagem de um site ou projeto PHP com CodeIgniter e um banco de dados MySQL.
+
+## Próximos Passos:
+
+	  1.**Aprender MySQL e SQL:**
+        Matricular-se em um curso online ou utilizar recursos gratuitos para aprender os fundamentos e conceitos avançados de MySQL e SQL.
+        Praticar a escrita de consultas SQL para manipulação de dados em um banco de dados MySQL.
+
+    2.**Dominar PHP com CodeIgniter:**
+        Estudar a documentação oficial do CodeIgniter e praticar a criação de aplicativos web utilizando PHP.
+        Desenvolver pelo menos um projeto prático utilizando CodeIgniter, que envolva interações com um banco de dados MySQL.
+
+    3.**Configuração de Servidor e Hospedagem:**
+        Pesquisar e aprender sobre diferentes opções de hospedagem de sites e servidores para hospedar projetos PHP com CodeIgniter e bancos de dados MySQL.
+        Experimentar a configuração de um servidor local usando software como XAMPP ou WAMP para simular um ambiente de produção.
+
+    4.**Implementação Prática:**
+        Aplicar os conhecimentos adquiridos para configurar um servidor de hospedagem e publicar o projeto PHP com CodeIgniter e banco de dados MySQL desenvolvido anteriormente.
+
+    5.Aprimoramento Contínuo:**
+        Manter-se atualizado com as últimas práticas e tecnologias em desenvolvimento web, participando de comunidades online, conferências e workshops relevantes.
+        Continuar explorando recursos adicionais, como segurança de servidor, otimização de desempenho e escalabilidade, para aprimorar ainda mais suas habilidades técnicas.
