@@ -1,0 +1,95 @@
+/* Fontes */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header#hero, main, footer {
+  margin: 0 auto;
+  max-width: 540px;
+
+  @media screen and (max-width: 768px) {
+    padding: 0 20px;
+  }
+}
+
+header#hero img {
+  margin-bottom: 32px;
+}
+
+h1 {
+  color: #000;
+  font-family: "Dosis", "Open Sans", sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 16px;
+  text-align: center;
+
+  span {
+    color: #EE24FF;
+    font-weight: 700;
+  }
+}
+
+p {
+  color: #828282;
+
+  span {
+    color: #828282;
+    font-weight: 700;
+  }
+
+  strong { color: #3F3D56 }
+}
+
+p+p {
+  margin-top: 32px;
+}
+
+a {
+  color: #3F3D56;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+}
+
+a+a {
+  margin-left: 40px;
+}
+
+footer {
+  margin-top: 64px;
+
+  hr {
+    border: 1px solid #ECEFF2;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+    padding: 0;
+    width: 100%;
+  }
+}
+
+svg.img-wave {
+  bottom: 0;
+  fill: none;
+  height: 100%;
+  left: 50%;
+  max-height: 104px;
+  max-width: 1024px;
+  position: fixed;
+  stroke-opacity: 0.5;
+  stroke-width: 1px;
+  stroke: black;
+  transform: translate(-50%, 0);
+  width: 100%;
+}
