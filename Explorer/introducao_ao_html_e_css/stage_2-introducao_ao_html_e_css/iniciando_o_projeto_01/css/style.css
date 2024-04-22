@@ -1,0 +1,62 @@
+/* Fontes */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-weight: 400;
+  text-align: center;
+}
+
+span, footer, a {
+  color: #FF9900;
+}
+
+header#hero, main, footer {
+  margin: 0 auto;
+  width: 592px;
+}
+
+header#hero img {
+  margin-bottom: 3.75vw;
+}
+
+h1 {
+  color: #000;
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 56px;
+  margin-bottom: 1.67vw;
+  text-align: center;
+
+  span { font-weight: 700; }
+}
+
+p, a {
+  font-size: 14px;
+  line-height: 28px;
+}
+a+a {
+  margin-left: 1.25vw;
+}
+
+p {
+  color: #7D7987;
+}
+
+footer {
+  margin-top: 3.75vw;
+
+  hr {
+    border: 1px solid #ECEFF2;
+    width: 100%;
+  }
+}
+
+img#balls {
+  bottom: 0;
+  position: fixed;
+  right: 0;
+}
